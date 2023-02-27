@@ -1,4 +1,4 @@
-This is a work in progress portfolio site being built on Next.js with Tailwindcss.
+This is a work in progress portfolio site being built on Next.js.
 
 First enter the directory of your chosing,
 
