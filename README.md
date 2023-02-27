@@ -7,7 +7,31 @@ cd (directory)
 git clone https://github.com/ashuchauhan2/new_website
 ````
 
-Next 
+Dependencies
+
+````
+npx create-next-app@latest
+# or
+yarn create next-app
+# or
+pnpm create next-app
+
+npm install -D tailwindcss
+#or
+yarn add tailwindcss
+
+npm install framer-motion
+#or
+yarn add framer-motion
+
+npm install react-simple-typewriter
+#or
+yarn add react-simple-typewriter
+
+npm install react-social-icons
+#or
+yarn add react-social-icons
+````
 
 ````
 cd new_website
